@@ -1,0 +1,93 @@
+/*
+* @Author: 贝贝
+* @Date:   2018-03-08 22:54:31
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-18 08:25:12
+*/
+.face{
+	width: 374px;
+	height: 790px;
+	 background: #f9f9f9; 
+	margin: 0 auto;
+	border-radius: 30px;
+	border: 2px solid #888888;
+	position:relative;
+}
+.face1{
+	width: 368px;
+	height: 784px;
+	background: #eae9ee;
+	margin: 0 auto;
+	border-radius: 30px;
+	margin-top: 2px;
+	 border: 1px solid #888888; 
+}
+.face2{
+	width: 354px;
+	height: 625px;
+	background: #110205;
+	margin-left: 6px;
+	margin-top: 76px;
+	border: 1px solid #888;
+	
+}
+.hoom{ 
+	width: 81px;
+	height: 39px;
+	background: #f9f9f9;
+	border-radius: 60px;
+	border: 1px solid #888;
+	margin-left: 143px;
+	margin-top: 20px;
+	
+}
+.rad1{
+	width: 10px;
+	height: 10px;
+	background: #110205;
+	border-radius: 50%;
+	float: left;
+	margin-top: 25px;
+	margin-left: 131px;
+}
+.changtiao{
+	width: 54px;
+	height: 7px;
+	background: #110205;
+	border-radius: 60px;
+	float: left;
+	margin-top: 29px;
+	margin-left: 17px;
+}
+	
+	
+.rad2{
+	width: 10px;
+	height: 10px;
+	background: #110205;
+	border-radius: 50%;
+	float: right;
+	margin-top: 25px;
+	margin-right: 131px;
+}
+.aside{
+	width:3px;
+	height:110px;
+	/* background:blue;  */
+	position:absolute;
+	right:-5px;
+	top:110px;
+}
+.aside_top{
+	width: 3px;
+	height: 60px;
+	/* background: #e4bbb7;  */
+	margin-bottom: 20px;
+	background: #40424e;
+}
+.aside_bottom{
+	width: 3px;
+	height: 30px;
+	/* background: #e4bbb7;  */
+	background: #40424e;
+}
